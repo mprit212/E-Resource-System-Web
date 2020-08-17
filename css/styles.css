@@ -1,0 +1,7 @@
+
+/* FOOTER */
+
+#footer{height:48px; clear:both; width:775px; border-top:#e8eaf1 4px solid}
+#footer p{padding: 10px 0 0 0; font:10px/14px Tahoma, sans-serif; font-weight:normal; text-align:center; color:#3b3b21;}
+#footer p a{font:10px/14px Tahoma, sans-serif; font-weight:normal; color:#3b3b21; text-decoration:none; padding: 0 3px }
+#footer p a:hover{text-decoration:underline; color:#3b3b21}
